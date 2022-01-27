@@ -42,18 +42,20 @@ div.intro {
 
 div.red {
     background-color: #ff0000;
-    text-align: left;
+    text-align: right;
     margin-left: 50px;
-    border-bottom: 3px solid;
-    border-left: 10px solid;
+    border: none;
+    border-bottom: 3px solid #fff;
+    border-left: 10px solid #fff;
 }
 
 div.blue {
     background-color: #0000ff;
     text-align: left;
     margin-right: 50px;
-    border-bottom: 3px solid;
-    border-right: 10px solid;
+    border: none;
+    border-bottom: 3px solid #fff;
+    border-right: 10px solid #fff;
 }
 
 div.yellow {
@@ -61,6 +63,7 @@ div.yellow {
     text-align: right;
     margin-left: 50px;
     color: #000;
+    border: none;
     border-bottom: 3px solid #fff;
     border-left: 10px solid #fff;
 }
@@ -70,11 +73,12 @@ div.yellow h2 {
 }
 
 div.green {
-    background-color: #00EB00;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border-bottom: 3px solid;
-    border-right: 10px solid;
+    border: none;
+    border-bottom: 3px solid #fff;
+    border-right: 10px solid #fff;
 }
 
 span {
